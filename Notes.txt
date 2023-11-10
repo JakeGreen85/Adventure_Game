@@ -1,0 +1,44 @@
+PlayerStats:
+0 = Level
+1 = HP
+2 = Max HP
+3 = Armor
+4 = Max Armor
+5 = Mana
+6 = Max Mana
+7 = Gold
+8 = Experience
+9 = Damage
+10 = Crit Chance
+11 = Speed
+
+PlayerEquipment:
+0 = Helmet
+1 = Shoulders
+2 = Chest
+3 = Hands
+4 = Wrists
+5 = Belts
+6 = Pants
+7 = Feet
+8 = Weapon
+
+Items:
+0 = HP Potion
+1 = Mana Potion
+2 = Box
+3 = Key
+
+Items: [[Name, Price, Armor/Damage, Req. Level], [...]]
+Skills: Same?
+
+FIXES:
+- Add ability to actually open mystery boxes and get stuff from it - need key to open.
+- Add tutorial
+- Add Quests
+- Make the game fullscreen.
+- Make images code generated instead of photoshopped. To make it more manipulable to change.
+- Finish blacksmith
+- Be able to sell items in the shop
+- Can't save the game
+- Change position of text os it looks nice
